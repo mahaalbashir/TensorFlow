@@ -1,8 +1,6 @@
-# What's new in TensorFlow 2.0
+# What's New in TensorFlow 2.0
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
-
-* Eager Execution / tf.function
 * Integration of the Keras API
 * Facilitated distributed training
 * TF Data
